@@ -1,2 +1,3 @@
 # hello-world
-just author repository
+hello guys!
+hello new world!
